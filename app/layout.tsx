@@ -8,7 +8,7 @@ export const metadata: Metadata = {
     template: "%s | TERASKA",
   },
   description:
-    "組み立て式の防音ブースと、使う人が育てられるフレームシステムをつくるTERASKAの公式サイト（準備中）。",
+    "重低音の映画・音楽を家で思い切り楽しむための組み立て式防音ブースと、使う人が育てられるフレームシステムをつくるTERASKAの公式サイト。",
 };
 
 const NAV_ITEMS = [
