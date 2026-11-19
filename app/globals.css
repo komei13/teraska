@@ -179,6 +179,10 @@ section.block ul {
   margin: 0 0 12px 1.4em;
 }
 
+section.block li {
+  margin-bottom: 10px;
+}
+
 /* ヒーロー */
 .hero {
   padding: 56px 0 8px;
@@ -214,6 +218,24 @@ section.block ul {
 
 .photo-placeholder.tall {
   min-height: 320px;
+}
+
+/* 画像（イメージ図） */
+.figure-img {
+  margin: 16px 0;
+}
+
+.figure-img img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px;
+}
+
+.figure-img figcaption {
+  font-size: 0.8rem;
+  color: var(--muted);
+  margin-top: 6px;
 }
 
 /* カード */
